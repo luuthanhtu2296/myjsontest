@@ -1,31 +1,18 @@
 {
-  "posts": [
+  "type": "IMAGE",
+  "media": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "_id": "5fcc4ea60b571000bee124a5",
+      "name": "237-536x354",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "237_536x354_46d3171a96",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 37.6,
+      "width": 536,
+      "height": 354,
+      "url": "/uploads/237_536x354_46d3171a96.jpeg"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
