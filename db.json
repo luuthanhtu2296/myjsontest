@@ -1,17 +1,145 @@
-{
-  "media": [
+[
     {
-      "_id": "5fcc4ea60b571000bee124a5",
-      "name": "237-536x354",
-      "alternativeText": "",
-      "caption": "",
-      "hash": "237_536x354_46d3171a96",
-      "ext": ".jpeg",
-      "mime": "image/jpeg",
-      "size": 37.6,
-      "width": 536,
-      "height": 354,
-      "url": "/uploads/237_536x354_46d3171a96.jpeg"
+        "type": "IMAGE",
+        "media": [
+            {
+                "_id": "5fcc4ea60b571000bee124a5",
+                "name": "237-536x354",
+                "alternativeText": "",
+                "caption": "",
+                "hash": "237_536x354_46d3171a96",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 37.6,
+                "width": 536,
+                "height": 354,
+                "url": "/uploads/237_536x354_46d3171a96.jpeg",
+                "formats": {
+                    "thumbnail": {
+                        "hash": "thumbnail_237_536x354_46d3171a96",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 236,
+                        "height": 156,
+                        "size": 10.34,
+                        "path": null,
+                        "url": "/uploads/thumbnail_237_536x354_46d3171a96.jpeg"
+                    },
+                    "small": {
+                        "hash": "small_237_536x354_46d3171a96",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 330,
+                        "size": 34.83,
+                        "path": null,
+                        "url": "/uploads/small_237_536x354_46d3171a96.jpeg"
+                    }
+                },
+                "provider": "local",
+                "related": [
+                    "5fcc4eb20b571000bee124a6"
+                ],
+                "createdAt": "2020-12-06T03:23:18.736Z",
+                "updatedAt": "2020-12-06T03:23:30.813Z",
+                "__v": 0,
+                "id": "5fcc4ea60b571000bee124a5"
+            }
+        ],
+        "_id": "5fcc4eb20b571000bee124a6",
+        "setting": null,
+        "name": "image-01",
+        "createdAt": "2020-12-06T03:23:30.801Z",
+        "updatedAt": "2020-12-11T23:45:06.987Z",
+        "__v": 0,
+        "id": "5fcc4eb20b571000bee124a6"
+    },
+    {
+        "type": "VIDEO",
+        "media": [
+            {
+                "_id": "5fd404debc751f01fced6e24",
+                "name": "file_example_MP4_1280_10MG",
+                "alternativeText": "",
+                "caption": "",
+                "hash": "file_example_MP_4_1280_10_MG_ced37496e3",
+                "ext": ".mp4",
+                "mime": "video/mp4",
+                "size": 9840.5,
+                "url": "/uploads/file_example_MP_4_1280_10_MG_ced37496e3.mp4",
+                "provider": "local",
+                "width": null,
+                "height": null,
+                "related": [
+                    "5fd404e9bc751f01fced6e25"
+                ],
+                "createdAt": "2020-12-11T23:46:38.077Z",
+                "updatedAt": "2020-12-11T23:46:49.787Z",
+                "__v": 0,
+                "id": "5fd404debc751f01fced6e24"
+            }
+        ],
+        "_id": "5fd404e9bc751f01fced6e25",
+        "setting": null,
+        "name": "video sample",
+        "createdAt": "2020-12-11T23:46:49.780Z",
+        "updatedAt": "2020-12-11T23:46:49.792Z",
+        "__v": 0,
+        "id": "5fd404e9bc751f01fced6e25"
+    },
+    {
+        "type": "IMAGE",
+        "media": [
+            {
+                "_id": "5fd40510bc751f01fced6e27",
+                "name": "1084-536x354-grayscale",
+                "alternativeText": "",
+                "caption": "",
+                "hash": "1084_536x354_grayscale_7075f5ec0c",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 30.5,
+                "width": 536,
+                "height": 354,
+                "url": "/uploads/1084_536x354_grayscale_7075f5ec0c.jpeg",
+                "formats": {
+                    "thumbnail": {
+                        "hash": "thumbnail_1084_536x354_grayscale_7075f5ec0c",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 236,
+                        "height": 156,
+                        "size": 7.7,
+                        "path": null,
+                        "url": "/uploads/thumbnail_1084_536x354_grayscale_7075f5ec0c.jpeg"
+                    },
+                    "small": {
+                        "hash": "small_1084_536x354_grayscale_7075f5ec0c",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 330,
+                        "size": 28.36,
+                        "path": null,
+                        "url": "/uploads/small_1084_536x354_grayscale_7075f5ec0c.jpeg"
+                    }
+                },
+                "provider": "local",
+                "related": [
+                    "5fd40513bc751f01fced6e28"
+                ],
+                "createdAt": "2020-12-11T23:47:28.232Z",
+                "updatedAt": "2020-12-11T23:47:31.140Z",
+                "__v": 0,
+                "id": "5fd40510bc751f01fced6e27"
+            }
+        ],
+        "_id": "5fd40513bc751f01fced6e28",
+        "setting": null,
+        "name": "image-02",
+        "createdAt": "2020-12-11T23:47:31.134Z",
+        "updatedAt": "2020-12-11T23:47:31.143Z",
+        "__v": 0,
+        "id": "5fd40513bc751f01fced6e28"
     }
-  ]
-}
+]
