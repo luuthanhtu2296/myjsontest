@@ -1,94 +1,94 @@
-[
-    {
-        "_id": "5fd442f0a919ac033ae8298a",
-        "name": "TMP_01",
-        "properties": [
-            {
-                "type": "VIDEO",
-                "_id": "5fd442f0a919ac033ae8298b",
-                "name": "video",
-                "x": 0,
-                "y": 0,
-                "width": 813,
-                "height": 720,
-                "createdAt": "2020-12-12T04:11:28.519Z",
-                "updatedAt": "2020-12-12T04:11:28.519Z",
-                "__v": 0,
-                "id": "5fd442f0a919ac033ae8298b"
-            },
-            {
-                "type": "IMAGE",
-                "_id": "5fd442f0a919ac033ae8298c",
-                "name": "iamge",
-                "x": 817,
-                "y": 335,
-                "height": 385,
-                "width": 463,
-                "createdAt": "2020-12-12T04:11:28.519Z",
-                "updatedAt": "2020-12-12T04:11:28.519Z",
-                "__v": 0,
-                "id": "5fd442f0a919ac033ae8298c"
-            },
-            {
-                "type": "IMAGE",
-                "_id": "5fd442f0a919ac033ae8298d",
-                "name": "image bottom",
-                "x": 817,
-                "y": 0,
-                "height": 331,
-                "width": 463,
-                "createdAt": "2020-12-12T04:11:28.519Z",
-                "updatedAt": "2020-12-12T04:11:28.519Z",
-                "__v": 0,
-                "id": "5fd442f0a919ac033ae8298d"
-            }
-        ],
-        "createdAt": "2020-12-12T04:11:28.510Z",
-        "updatedAt": "2020-12-12T04:11:28.556Z",
-        "__v": 1,
-        "resolution": {
-            "_id": "5fd42ec5a919ac033ae82980",
-            "name": "HD",
-            "width": 1280,
-            "height": 720,
-            "createdAt": "2020-12-12T02:45:25.432Z",
-            "updatedAt": "2020-12-12T02:45:25.432Z",
-            "__v": 0,
-            "id": "5fd42ec5a919ac033ae82980"
-        },
-        "id": "5fd442f0a919ac033ae8298a"
-    },
-    {
-        "_id": "5fd44339a919ac033ae82991",
-        "name": "VIDEO_FULL",
-        "properties": [
-            {
-                "type": "VIDEO",
-                "_id": "5fd44339a919ac033ae82992",
-                "name": "video full",
-                "x": 0,
-                "y": 0,
-                "width": 1028,
-                "height": 720,
-                "createdAt": "2020-12-12T04:12:41.330Z",
-                "updatedAt": "2020-12-12T04:12:41.330Z",
-                "__v": 0,
-                "id": "5fd44339a919ac033ae82992"
-            }
-        ],
-        "createdAt": "2020-12-12T04:12:41.324Z",
-        "updatedAt": "2020-12-12T04:12:41.350Z",
-        "__v": 1,
-        "resolution": {
-            "_id": "5fd42ec5a919ac033ae82980",
-            "name": "HD",
-            "width": 1280,
-            "height": 720,
-            "createdAt": "2020-12-12T02:45:25.432Z",
-            "updatedAt": "2020-12-12T02:45:25.432Z",
-            "__v": 0,
-            "id": "5fd42ec5a919ac033ae82980"
-        },
-        "id": "5fd44339a919ac033ae82991"
-    }
-]
+{
+  {
+      "_id": "5fd442f0a919ac033ae8298a",
+      "name": "TMP_01",
+      "properties": [
+          {
+              "type": "VIDEO",
+              "_id": "5fd442f0a919ac033ae8298b",
+              "name": "video",
+              "x": 0,
+              "y": 0,
+              "width": 813,
+              "height": 720,
+              "createdAt": "2020-12-12T04:11:28.519Z",
+              "updatedAt": "2020-12-12T04:11:28.519Z",
+              "__v": 0,
+              "id": "5fd442f0a919ac033ae8298b"
+          },
+          {
+              "type": "IMAGE",
+              "_id": "5fd442f0a919ac033ae8298c",
+              "name": "iamge",
+              "x": 817,
+              "y": 335,
+              "height": 385,
+              "width": 463,
+              "createdAt": "2020-12-12T04:11:28.519Z",
+              "updatedAt": "2020-12-12T04:11:28.519Z",
+              "__v": 0,
+              "id": "5fd442f0a919ac033ae8298c"
+          },
+          {
+              "type": "IMAGE",
+              "_id": "5fd442f0a919ac033ae8298d",
+              "name": "image bottom",
+              "x": 817,
+              "y": 0,
+              "height": 331,
+              "width": 463,
+              "createdAt": "2020-12-12T04:11:28.519Z",
+              "updatedAt": "2020-12-12T04:11:28.519Z",
+              "__v": 0,
+              "id": "5fd442f0a919ac033ae8298d"
+          }
+      ],
+      "createdAt": "2020-12-12T04:11:28.510Z",
+      "updatedAt": "2020-12-12T04:11:28.556Z",
+      "__v": 1,
+      "resolution": {
+          "_id": "5fd42ec5a919ac033ae82980",
+          "name": "HD",
+          "width": 1280,
+          "height": 720,
+          "createdAt": "2020-12-12T02:45:25.432Z",
+          "updatedAt": "2020-12-12T02:45:25.432Z",
+          "__v": 0,
+          "id": "5fd42ec5a919ac033ae82980"
+      },
+      "id": "5fd442f0a919ac033ae8298a"
+  },
+  {
+      "_id": "5fd44339a919ac033ae82991",
+      "name": "VIDEO_FULL",
+      "properties": [
+          {
+              "type": "VIDEO",
+              "_id": "5fd44339a919ac033ae82992",
+              "name": "video full",
+              "x": 0,
+              "y": 0,
+              "width": 1028,
+              "height": 720,
+              "createdAt": "2020-12-12T04:12:41.330Z",
+              "updatedAt": "2020-12-12T04:12:41.330Z",
+              "__v": 0,
+              "id": "5fd44339a919ac033ae82992"
+          }
+      ],
+      "createdAt": "2020-12-12T04:12:41.324Z",
+      "updatedAt": "2020-12-12T04:12:41.350Z",
+      "__v": 1,
+      "resolution": {
+          "_id": "5fd42ec5a919ac033ae82980",
+          "name": "HD",
+          "width": 1280,
+          "height": 720,
+          "createdAt": "2020-12-12T02:45:25.432Z",
+          "updatedAt": "2020-12-12T02:45:25.432Z",
+          "__v": 0,
+          "id": "5fd42ec5a919ac033ae82980"
+      },
+      "id": "5fd44339a919ac033ae82991"
+  }
+}
